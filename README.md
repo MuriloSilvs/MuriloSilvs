@@ -16,6 +16,15 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
+### Studying in this moment:
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+### Other Knowledge:
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-0D1117?style=for-the-badge&logo=visual%20studio&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -23,21 +32,18 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
-### Other Knowledge:
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+<br>
+ <h2 align="center">Contact Me:<h2>
+
+<div align="center">
+    <a href="mailto:murilo_silv@outlook.com"><img src="https://img.shields.io/badge/-gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117"></a>
+    <a href="https://www.linkedin.com/in/murilo-silva-a42873232" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117"></a>
+    <a href="https://www.instagram.com/mks_silv/" target="_blank"><img src="https://img.shields.io/badge/-instagram-0D1117?style=for-the-badge&logo=instagram&labelColor=0D1117"></a>
+    <a href="https://www.twitch.tv/musilvs" target="_blank"><img src="https://img.shields.io/badge/-twitch-0D1117?style=for-the-badge&logo=twitch&labelColor=0D1117"></a>
+</div>
   
-### Studying in this moment:
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuriloSilvs&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 <div align="center"> 
-
+  
   ![Snake animation](https://github.com/MuriloSilvs/MuriloSilvs/blob/output/github-contribution-grid-snake.svg)
   
 </div>
